@@ -1,0 +1,18 @@
+body{
+background-color: rgb(31, 31, 31);
+color: coral;    
+}
+
+.heading{
+font-size:22px;
+width:80%;
+color:coral;    
+}
+
+button{
+background-color:coral !important;
+}
+
+hr{
+background-color:coral;
+}
